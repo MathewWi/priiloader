@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9,00"
-	Name="Installer"
-	ProjectGUID="{E0E7DAF2-AE44-4DAF-AB23-38162FD44F00}"
-	RootNamespace="Installer"
+	Name="JumpKick"
+	ProjectGUID="{434AA869-14F4-4F3F-A945-877021DEE4A1}"
+	RootNamespace="JumpKick"
 	TargetFrameworkVersion="196613"
 	>
 	<Platforms>
@@ -50,23 +50,17 @@
 				RelativePath=".\source\main.cpp"
 				>
 			</File>
-			<File
-				RelativePath=".\source\sha1.cpp"
-				>
-			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
-			<File
-				RelativePath=".\include\sha1.h"
-				>
-			</File>
 		</Filter>
 		<Filter
-			Name="data"
+			Name="Resource Files"
+			Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav"
+			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
 		</Filter>
 		<File
